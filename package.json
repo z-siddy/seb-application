@@ -1,0 +1,26 @@
+{
+  "name": "seb-application",
+  "version": "1.0.0",
+  "description": "Application task at SEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-siddy/seb-application.git"
+  },
+  "author": "zsiddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-siddy/seb-application/issues"
+  },
+  "homepage": "https://github.com/z-siddy/seb-application#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
