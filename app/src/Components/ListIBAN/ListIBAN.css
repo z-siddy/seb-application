@@ -1,0 +1,20 @@
+.list-container {
+  background-color: #abd9ab;
+  min-height: 100vh;
+  padding: 15px;
+}
+
+.btn-upload-light {
+  background: rgb(231, 231, 231);
+  color: #2c2c2c;
+  width: 100%;
+}
+
+.btn-upload-light:hover {
+  background: rgb(158, 157, 157);
+  color: rgb(231, 231, 231);
+}
+
+.pad-10 {
+  padding: 10px;
+}

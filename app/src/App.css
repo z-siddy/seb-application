@@ -1,0 +1,9 @@
+html,body {
+  min-height: 100%;
+  color: #2c2c2c;
+}
+
+.no-pad {
+  padding-left: 0;
+  padding-right: 0;
+}

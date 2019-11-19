@@ -1,0 +1,28 @@
+.single-container {
+  background-color: #e7e7e7;
+  min-height: 100vh;
+  padding: 15px;
+}
+
+.btn-upload-green {
+  background: #abd9ab;
+  color: #2c2c2c;
+  width: 100%;
+}
+
+.btn-upload-green:hover {
+  background: rgb(158, 157, 157);
+  color: rgb(231, 231, 231);
+}
+
+.mar-top {
+  margin-top: 15px;
+}
+
+.invalid {
+  color: red;
+}
+
+.valid {
+  color: #40c940;
+}

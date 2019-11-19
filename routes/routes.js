@@ -12,7 +12,7 @@ router.get('/check/:number', async(req, res) => {
       res.status(200).json({ status: "valid", iban: number })
     }
     else {
-      res.status(406).json({ status: "invalid", iban: number })
+      res.status(200).json({ status: "invalid", iban: number })
     }
   } catch(err) {
     res.status(400).json({ error: true, message: err.message })

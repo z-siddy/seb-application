@@ -24,5 +24,5 @@ To run this application locally, all you need to do is have a ready-and-set Node
  1. Open a CMD prompt with Node.js compatibility
  2. Navigate to root folder of this application (same directory as *index.js* file)
  3. Type `npm run start` command
- 4. In the browser you will find this application hiding under the address `localhost:3000` (unless you change the port yourself, it should be set to 3000, and the API port is set to 3001)
+ 4. In the browser you will find this application hiding under the address `localhost:3000` (unless you change the port yourself, it should be set to 3000)
  5. That's it! Happy validation :)
